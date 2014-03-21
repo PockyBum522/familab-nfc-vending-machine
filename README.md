@@ -8,6 +8,7 @@ Written by David Sikes, any code usage from other sources is cited in the blog e
 Compiled on 1.5.2
 
 Modules:
+    
     Credit_Card_Emulator - Main file. Contains CC strings and the associated NFC tag UIDs
    
     BitWritingHandler - Code to send data to coil as well as how to write certain chars
